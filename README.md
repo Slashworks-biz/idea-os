@@ -19,7 +19,7 @@ Most PRD tools stop at the document. `idea-os` goes further — it ties research
 
 - **Clarifying questions** (4–18, complexity-adjusted) that actually change the answer
 - **Deep research** — TAM/SAM/SOM (top-down + bottom-up), segmentation, competitor matrix with positioning map, SWOT, JTBD, distribution strategy, why-now, 3–7 non-obvious insights
-- **World-class PRD** — falsifiable problem statement, named personas, ranked JTBD, leading/lagging metrics, explicit non-goals
+- **PRD** — falsifiable problem statement, named personas, ranked JTBD, leading/lagging metrics, explicit non-goals
 - **Execution plan** with:
   - User journey (text walkthrough + mermaid diagram that renders on GitHub)
   - Platform recommendation (web / mobile / desktop / CLI / extension / hybrid) tied to research findings
