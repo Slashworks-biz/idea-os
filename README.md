@@ -34,7 +34,7 @@ Most PRD tools stop at the document. `idea-os` goes further — it ties research
 Clone into your skills directory:
 
 ```bash
-git clone https://github.com/Imasaikiran/idea-os.git ~/.claude/skills/idea-os
+git clone https://github.com/Slashworks-biz/idea-os.git ~/.claude/skills/idea-os
 ```
 
 The skill activates automatically when you describe an idea or problem that needs the full pipeline.
@@ -125,4 +125,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Credit
 
-Built by [@Imasaikiran](https://github.com/Imasaikiran) with the Claude Agent SDK.
+Built under [Slashworks](https://github.com/Slashworks-biz) with the Claude Agent SDK.
